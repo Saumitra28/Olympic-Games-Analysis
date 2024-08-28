@@ -15,7 +15,8 @@ Donut Charts for Competitors and Medals by Sex: Visual representations of the di
 Line Graph for Medals Registered by Year: A trend analysis of the number of medals awarded over different Olympic Games.
 Stacked Bar Graph for Medals by Sport and Medal Type: Illustrates the distribution of medals across different sports and medal types (Gold, Silver, Bronze).
 Stacked Bar Graph for Competitors by Sport: Depicts the number of competitors participating in various sports.
-Features
+
+Features:
 Interactive Dashboards: The Power BI report includes interactive features, allowing users to explore different aspects of the data in detail.
 Data-Driven Insights: The visualizations provide a comprehensive overview of key metrics related to the Olympic Games, making it easier to analyze trends and patterns.
 
